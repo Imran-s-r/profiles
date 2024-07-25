@@ -69,7 +69,22 @@ ul a:hover{
     margin-top: 20px;
 }
 
+@media (max-width: 600px) {
+    a{
+        font-size:13px ;
+    }
+    .logo{
+        font-size: 25px;
+    }
+    .content p{
+        font-size: 14px;
+        width: 60%;
+    }
+    .content h2{
+        font-size: 25px;
+    }
 
+}
 
 
 
